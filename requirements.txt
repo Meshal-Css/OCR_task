@@ -1,0 +1,24 @@
+# ============================================================
+# Arabic Document OCR Project - Requirements
+# ============================================================
+# Environment: Python 3.11 | Conda: test_ocr
+# ============================================================
+
+# --- Core ---
+torch>=2.0.0
+torchvision>=0.15.0
+
+# --- Transformers (install from source for LightOnOCR-2 support) ---
+# pip install git+https://github.com/huggingface/transformers
+transformers>=5.0.0
+
+# --- PDF Processing ---
+pypdfium2>=4.0.0
+
+# --- Image Processing ---
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# --- Output ---
+openpyxl>=3.1.0

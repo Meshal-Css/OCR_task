@@ -1,0 +1,136 @@
+Handwriting Extraction Results
+============================================================
+File: عقد ايجار ورقي 190.jpg
+Date: 2026-02-16 14:47:01
+Detector: armvectores/yolov8n_handwritten_text_detection
+Regions found: 32
+============================================================
+
+--- Region 1 ---
+Location: (187,7) → (248,43)
+Confidence: 71.1%
+
+--- Region 2 ---
+Location: (64,19) → (125,52)
+Confidence: 80.8%
+
+--- Region 3 ---
+Location: (181,22) → (256,57)
+Confidence: 63.2%
+
+--- Region 4 ---
+Location: (68,29) → (145,61)
+Confidence: 71.7%
+
+--- Region 5 ---
+Location: (189,45) → (248,78)
+Confidence: 64.6%
+
+--- Region 6 ---
+Location: (181,72) → (261,106)
+Confidence: 68.0%
+
+--- Region 7 ---
+Location: (23,86) → (72,121)
+Confidence: 82.8%
+
+--- Region 8 ---
+Location: (3,100) → (65,135)
+Confidence: 68.5%
+
+--- Region 9 ---
+Location: (298,110) → (341,140)
+Confidence: 60.3%
+
+--- Region 10 ---
+Location: (75,121) → (120,154)
+Confidence: 62.3%
+
+--- Region 11 ---
+Location: (308,123) → (346,156)
+Confidence: 68.9%
+
+--- Region 12 ---
+Location: (366,125) → (415,158)
+Confidence: 64.3%
+
+--- Region 13 ---
+Location: (213,133) → (295,167)
+Confidence: 60.8%
+
+--- Region 14 ---
+Location: (75,135) → (119,169)
+Confidence: 70.6%
+
+--- Region 15 ---
+Location: (142,136) → (188,168)
+Confidence: 69.4%
+
+--- Region 16 ---
+Location: (213,136) → (294,170)
+Confidence: 61.8%
+
+--- Region 17 ---
+Location: (334,136) → (414,171)
+Confidence: 71.5%
+
+--- Region 18 ---
+Location: (84,147) → (139,181)
+Confidence: 67.9%
+
+--- Region 19 ---
+Location: (165,149) → (225,184)
+Confidence: 69.7%
+
+--- Region 20 ---
+Location: (219,184) → (279,226)
+Confidence: 68.1%
+
+--- Region 21 ---
+Location: (113,273) → (191,307)
+Confidence: 67.8%
+
+--- Region 22 ---
+Location: (28,274) → (117,309)
+Confidence: 62.0%
+
+--- Region 23 ---
+Location: (309,290) → (367,323)
+Confidence: 70.2%
+
+--- Region 24 ---
+Location: (357,290) → (415,323)
+Confidence: 66.4%
+
+--- Region 25 ---
+Location: (141,348) → (222,383)
+Confidence: 62.6%
+
+--- Region 26 ---
+Location: (186,374) → (306,410)
+Confidence: 60.5%
+
+--- Region 27 ---
+Location: (228,401) → (308,435)
+Confidence: 60.7%
+
+--- Region 28 ---
+Location: (333,439) → (399,473)
+Confidence: 77.7%
+
+--- Region 29 ---
+Location: (383,446) → (412,482)
+Confidence: 71.9%
+
+--- Region 30 ---
+Location: (100,487) → (155,523)
+Confidence: 70.6%
+
+--- Region 31 ---
+Location: (280,489) → (338,523)
+Confidence: 68.1%
+
+--- Region 32 ---
+Location: (294,502) → (345,535)
+Confidence: 64.5%
+

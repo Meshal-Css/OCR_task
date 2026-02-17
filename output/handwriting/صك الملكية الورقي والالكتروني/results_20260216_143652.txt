@@ -1,0 +1,40 @@
+Handwriting Extraction Results
+============================================================
+File: صك الملكية الورقي والالكتروني.pdf
+Date: 2026-02-16 14:36:52
+Detector: armvectores/yolov8n_handwritten_text_detection
+Regions found: 8
+============================================================
+
+--- Region 1 ---
+Location: (1047,373) → (1330,449)
+Confidence: 62.2%
+
+--- Region 2 ---
+Location: (993,512) → (1374,601)
+Confidence: 72.2%
+
+--- Region 3 ---
+Location: (887,589) → (1001,659)
+Confidence: 60.9%
+
+--- Region 4 ---
+Location: (1047,1040) → (1372,1116)
+Confidence: 60.4%
+
+--- Region 5 ---
+Location: (677,2435) → (964,2517)
+Confidence: 68.6%
+
+--- Region 6 ---
+Location: (27,3158) → (461,3290)
+Confidence: 60.3%
+
+--- Region 7 ---
+Location: (569,3320) → (739,3441)
+Confidence: 74.5%
+
+--- Region 8 ---
+Location: (790,3360) → (1015,3494)
+Confidence: 69.0%
+

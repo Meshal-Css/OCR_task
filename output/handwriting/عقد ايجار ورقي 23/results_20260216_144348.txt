@@ -1,0 +1,12 @@
+Handwriting Extraction Results
+============================================================
+File: عقد ايجار ورقي 23.pdf
+Date: 2026-02-16 14:43:48
+Detector: armvectores/yolov8n_handwritten_text_detection
+Regions found: 1
+============================================================
+
+--- Region 1 ---
+Location: (840,2692) → (1083,2808)
+Confidence: 60.2%
+

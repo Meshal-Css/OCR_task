@@ -104,7 +104,7 @@ def main():
     model, processor, device, dtype, load_time = load_model()
 
     # Convert PDF to image
-    pdf_path = r"C:\Users\MSI1\Desktop\testing_ocr\وكالة الكترونية\وكالة الكترونية 009.pdf"
+    pdf_path = r"C:\Users\MSI1\Desktop\testing_ocr\وكالة الكترونية\وكالة الكترونية نسخة ورقية 03.pdf"
     image = pdf_to_image(pdf_path, page_num=0, dpi=200)
 
     # Run OCR

@@ -1,0 +1,396 @@
+Handwriting Extraction Results
+============================================================
+File: صك الملكية الورقي والالكتروني.pdf
+Date: 2026-02-16 14:32:48
+Detector: armvectores/yolov8n_handwritten_text_detection
+Regions found: 97
+============================================================
+
+--- Region 1 ---
+Location: (1040,254) → (1321,331)
+Confidence: 42.0%
+
+--- Region 2 ---
+Location: (1030,265) → (1331,345)
+Confidence: 26.1%
+
+--- Region 3 ---
+Location: (1015,292) → (1294,367)
+Confidence: 46.0%
+
+--- Region 4 ---
+Location: (750,312) → (880,432)
+Confidence: 47.9%
+
+--- Region 5 ---
+Location: (754,326) → (871,448)
+Confidence: 37.7%
+
+--- Region 6 ---
+Location: (1380,329) → (1465,415)
+Confidence: 33.3%
+
+--- Region 7 ---
+Location: (1038,333) → (1347,420)
+Confidence: 50.2%
+
+--- Region 8 ---
+Location: (1052,349) → (1343,432)
+Confidence: 45.9%
+
+--- Region 9 ---
+Location: (1047,373) → (1330,449)
+Confidence: 62.2%
+
+--- Region 10 ---
+Location: (957,378) → (1043,458)
+Confidence: 40.2%
+
+--- Region 11 ---
+Location: (1255,419) → (1384,489)
+Confidence: 37.2%
+
+--- Region 12 ---
+Location: (1053,422) → (1343,495)
+Confidence: 28.1%
+
+--- Region 13 ---
+Location: (1056,429) → (1360,506)
+Confidence: 29.8%
+
+--- Region 14 ---
+Location: (1033,446) → (1359,529)
+Confidence: 44.8%
+
+--- Region 15 ---
+Location: (981,457) → (1358,537)
+Confidence: 49.3%
+
+--- Region 16 ---
+Location: (1325,461) → (1439,527)
+Confidence: 25.1%
+
+--- Region 17 ---
+Location: (1036,506) → (1409,589)
+Confidence: 27.5%
+
+--- Region 18 ---
+Location: (738,511) → (919,610)
+Confidence: 35.0%
+
+--- Region 19 ---
+Location: (993,512) → (1374,601)
+Confidence: 72.2%
+
+--- Region 20 ---
+Location: (1518,514) → (1693,583)
+Confidence: 34.1%
+
+--- Region 21 ---
+Location: (813,546) → (927,614)
+Confidence: 36.2%
+
+--- Region 22 ---
+Location: (1495,546) → (1725,624)
+Confidence: 33.2%
+
+--- Region 23 ---
+Location: (1484,552) → (1861,639)
+Confidence: 45.0%
+
+--- Region 24 ---
+Location: (1487,558) → (1755,630)
+Confidence: 27.6%
+
+--- Region 25 ---
+Location: (1083,564) → (1354,636)
+Confidence: 40.2%
+
+--- Region 26 ---
+Location: (760,587) → (985,667)
+Confidence: 40.7%
+
+--- Region 27 ---
+Location: (887,589) → (1001,659)
+Confidence: 60.9%
+
+--- Region 28 ---
+Location: (1443,597) → (1656,666)
+Confidence: 45.3%
+
+--- Region 29 ---
+Location: (1401,601) → (1651,678)
+Confidence: 43.0%
+
+--- Region 30 ---
+Location: (1386,621) → (1578,705)
+Confidence: 33.1%
+
+--- Region 31 ---
+Location: (1342,626) → (1578,713)
+Confidence: 43.7%
+
+--- Region 32 ---
+Location: (875,636) → (1009,705)
+Confidence: 37.4%
+
+--- Region 33 ---
+Location: (942,640) → (1108,712)
+Confidence: 25.1%
+
+--- Region 34 ---
+Location: (968,645) → (1117,708)
+Confidence: 38.9%
+
+--- Region 35 ---
+Location: (1653,649) → (1849,730)
+Confidence: 28.1%
+
+--- Region 36 ---
+Location: (1088,680) → (1313,745)
+Confidence: 34.7%
+
+--- Region 37 ---
+Location: (1297,683) → (1525,753)
+Confidence: 46.7%
+
+--- Region 38 ---
+Location: (908,688) → (1142,759)
+Confidence: 27.3%
+
+--- Region 39 ---
+Location: (1228,712) → (1479,792)
+Confidence: 29.6%
+
+--- Region 40 ---
+Location: (1159,717) → (1478,801)
+Confidence: 29.0%
+
+--- Region 41 ---
+Location: (1147,721) → (1351,802)
+Confidence: 37.9%
+
+--- Region 42 ---
+Location: (1172,731) → (1365,806)
+Confidence: 58.6%
+
+--- Region 43 ---
+Location: (1047,1040) → (1372,1116)
+Confidence: 60.4%
+
+--- Region 44 ---
+Location: (1118,1220) → (1264,1291)
+Confidence: 34.4%
+
+--- Region 45 ---
+Location: (1687,1223) → (1816,1295)
+Confidence: 35.4%
+
+--- Region 46 ---
+Location: (1569,1258) → (1742,1321)
+Confidence: 25.3%
+
+--- Region 47 ---
+Location: (1042,1264) → (1254,1332)
+Confidence: 26.3%
+
+--- Region 48 ---
+Location: (1573,1270) → (1884,1350)
+Confidence: 26.1%
+
+--- Region 49 ---
+Location: (1214,1272) → (1394,1344)
+Confidence: 28.8%
+
+--- Region 50 ---
+Location: (1076,1286) → (1399,1365)
+Confidence: 40.9%
+
+--- Region 51 ---
+Location: (947,1301) → (1072,1368)
+Confidence: 37.7%
+
+--- Region 52 ---
+Location: (1339,1502) → (1571,1570)
+Confidence: 34.9%
+
+--- Region 53 ---
+Location: (1332,1509) → (1577,1581)
+Confidence: 50.0%
+
+--- Region 54 ---
+Location: (1397,1512) → (1583,1582)
+Confidence: 36.0%
+
+--- Region 55 ---
+Location: (1224,1517) → (1572,1590)
+Confidence: 31.3%
+
+--- Region 56 ---
+Location: (782,1523) → (1102,1602)
+Confidence: 28.8%
+
+--- Region 57 ---
+Location: (1228,1563) → (1569,1637)
+Confidence: 26.1%
+
+--- Region 58 ---
+Location: (1270,1567) → (1546,1634)
+Confidence: 35.7%
+
+--- Region 59 ---
+Location: (1294,1618) → (1579,1690)
+Confidence: 43.2%
+
+--- Region 60 ---
+Location: (1477,1661) → (1737,1745)
+Confidence: 45.3%
+
+--- Region 61 ---
+Location: (1518,1665) → (1735,1738)
+Confidence: 44.8%
+
+--- Region 62 ---
+Location: (1251,1676) → (1402,1750)
+Confidence: 37.0%
+
+--- Region 63 ---
+Location: (22,1776) → (221,1898)
+Confidence: 38.7%
+
+--- Region 64 ---
+Location: (267,1781) → (381,1902)
+Confidence: 56.7%
+
+--- Region 65 ---
+Location: (269,1830) → (393,1933)
+Confidence: 58.3%
+
+--- Region 66 ---
+Location: (23,1833) → (223,1949)
+Confidence: 40.7%
+
+--- Region 67 ---
+Location: (23,1849) → (243,1972)
+Confidence: 34.8%
+
+--- Region 68 ---
+Location: (1197,1977) → (1384,2059)
+Confidence: 26.5%
+
+--- Region 69 ---
+Location: (1250,2032) → (1462,2105)
+Confidence: 27.0%
+
+--- Region 70 ---
+Location: (1082,2087) → (1381,2164)
+Confidence: 34.6%
+
+--- Region 71 ---
+Location: (661,2410) → (950,2498)
+Confidence: 27.3%
+
+--- Region 72 ---
+Location: (582,2415) → (970,2518)
+Confidence: 27.0%
+
+--- Region 73 ---
+Location: (658,2422) → (961,2509)
+Confidence: 44.1%
+
+--- Region 74 ---
+Location: (677,2435) → (964,2517)
+Confidence: 68.6%
+
+--- Region 75 ---
+Location: (652,2437) → (980,2534)
+Confidence: 36.4%
+
+--- Region 76 ---
+Location: (623,2472) → (768,2559)
+Confidence: 40.0%
+
+--- Region 77 ---
+Location: (617,2518) → (969,2603)
+Confidence: 28.3%
+
+--- Region 78 ---
+Location: (464,2531) → (924,2624)
+Confidence: 29.0%
+
+--- Region 79 ---
+Location: (24,2636) → (269,2783)
+Confidence: 33.7%
+
+--- Region 80 ---
+Location: (19,2650) → (295,2808)
+Confidence: 35.0%
+
+--- Region 81 ---
+Location: (23,2715) → (320,2838)
+Confidence: 31.4%
+
+--- Region 82 ---
+Location: (611,2721) → (738,2835)
+Confidence: 30.6%
+
+--- Region 83 ---
+Location: (29,2774) → (298,2911)
+Confidence: 41.4%
+
+--- Region 84 ---
+Location: (27,3158) → (461,3290)
+Confidence: 60.3%
+
+--- Region 85 ---
+Location: (39,3193) → (484,3316)
+Confidence: 45.3%
+
+--- Region 86 ---
+Location: (44,3217) → (392,3326)
+Confidence: 46.2%
+
+--- Region 87 ---
+Location: (41,3261) → (320,3372)
+Confidence: 57.6%
+
+--- Region 88 ---
+Location: (33,3292) → (329,3404)
+Confidence: 59.6%
+
+--- Region 89 ---
+Location: (410,3304) → (533,3407)
+Confidence: 49.3%
+
+--- Region 90 ---
+Location: (569,3320) → (739,3441)
+Confidence: 74.5%
+
+--- Region 91 ---
+Location: (390,3322) → (528,3427)
+Confidence: 38.7%
+
+--- Region 92 ---
+Location: (22,3325) → (330,3434)
+Confidence: 47.8%
+
+--- Region 93 ---
+Location: (382,3340) → (531,3439)
+Confidence: 27.7%
+
+--- Region 94 ---
+Location: (17,3342) → (331,3456)
+Confidence: 54.8%
+
+--- Region 95 ---
+Location: (790,3360) → (1015,3494)
+Confidence: 69.0%
+
+--- Region 96 ---
+Location: (30,3367) → (722,3509)
+Confidence: 38.9%
+
+--- Region 97 ---
+Location: (22,3374) → (613,3496)
+Confidence: 48.8%
+

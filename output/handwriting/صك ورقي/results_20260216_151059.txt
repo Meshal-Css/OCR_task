@@ -1,0 +1,52 @@
+Handwriting Extraction Results
+============================================================
+File: صك ورقي.pdf
+Date: 2026-02-16 15:10:59
+Detector: armvectores/yolov8n_handwritten_text_detection
+Regions found: 11
+============================================================
+
+--- Region 1 ---
+Location: (379,303) → (540,352)
+Confidence: 64.2%
+
+--- Region 2 ---
+Location: (48,502) → (172,552)
+Confidence: 65.9%
+
+--- Region 3 ---
+Location: (127,541) → (283,590)
+Confidence: 69.2%
+
+--- Region 4 ---
+Location: (139,639) → (289,689)
+Confidence: 66.5%
+
+--- Region 5 ---
+Location: (129,892) → (247,936)
+Confidence: 60.4%
+
+--- Region 6 ---
+Location: (522,928) → (707,978)
+Confidence: 61.7%
+
+--- Region 7 ---
+Location: (542,998) → (660,1042)
+Confidence: 62.6%
+
+--- Region 8 ---
+Location: (755,1063) → (889,1108)
+Confidence: 60.2%
+
+--- Region 9 ---
+Location: (669,1067) → (761,1110)
+Confidence: 62.6%
+
+--- Region 10 ---
+Location: (539,1093) → (680,1140)
+Confidence: 66.0%
+
+--- Region 11 ---
+Location: (396,1116) → (535,1161)
+Confidence: 68.4%
+
